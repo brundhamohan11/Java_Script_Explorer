@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    background-color:blanchedalmond
+}
+.button{
+    border:7px;
+    margin:9px;
+    background-color:aqua;
+    color:rgb(245, 50, 131);
+
+}
+button:hover{
+    cursor:pointer;
+    background-color:black;
+    color: white;
+}
+.result{
+    margin-top:20px;
+    font-weight: lighter;
+
+}
